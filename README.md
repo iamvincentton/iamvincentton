@@ -6,10 +6,12 @@ From my days as a Business Analyst, playing around with VBA and Excel Macros, I 
 
 At present, I'm a part of a dynamic team as a Full Stack Developer. While I predominantly contribute across the fullstack (TypeScript, React, Vue, Node.js) and manage our cloud infrastructure (Azure DevOps). In my free time, I enjoy improving my physical condition by running or doing fitness.
 
-💻 Programming Languages: JavaScript, TypeScript
+💻 **Programming Languages:** JavaScript, TypeScript
 
-🔧 Technologies & Tools: Vue.js, React, Node, GraphQL, AWS(EC2, S3), MS Azure, Docker, Git, MongoDB, NoSQL, Express, Webpack, Blockchain Technologies (including Solidity, Truffle, web3.js)
+🔧 **Technologies & Tools:** Vue.js, React, Node, GraphQL, AWS(EC2, S3), MS Azure, Docker, Git, MongoDB, NoSQL, Express, Webpack, Blockchain Technologies (including Solidity, Truffle, web3.js)
 
-📊 Methodologies: SCRUM, Agile, TDD, BDD
+📊 **Methodologies:** SCRUM, Agile, TDD, BDD
 
-🤔 Interests Web Architecture, Web3, Full Stack Development
+🤔 **Interests:** Web Architecture, Web3, Full Stack Development
+
+[Let’s connect!](https://www.linkedin.com/in/vincentton/)
