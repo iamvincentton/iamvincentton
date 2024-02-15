@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me:
 
-I am a Full Stack Developer with 5+ years of experience and a proven track record of delivering quality Full Stack applications in both startup and enterprise environments. I work best with the modern JavaScript stack including React, Vue, Node, GraphQL and TypeScript as well as the Blockchain ecosystem. I also have experience on the Cloud with AWS.
+I am a Full Stack Developer with 7+ years of experience and a proven track record of delivering quality Full Stack applications in both startup and enterprise environments. I work best with the modern JavaScript stack including React, Vue, Node, GraphQL and TypeScript as well as the Blockchain ecosystem. I also have experience on the Cloud with AWS.
 
 From my days as a Business Analyst, playing around with VBA and Excel Macros, I decided to pivot my career and become a full stack developer. I took specific training and courses to equip myself with modern JavaScript technologies like React, Vue.js, and Node. This set the stage for my move into full-stack and Blockchain development.
 
